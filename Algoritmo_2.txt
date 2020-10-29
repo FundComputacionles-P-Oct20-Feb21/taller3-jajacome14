@@ -1,0 +1,14 @@
+solucion ejercicio 2 
+
+inicio 
+ ingrese gasto 1 
+ lea "1" 
+ingrese gasto  2 
+lea "2"
+ingrese gasto  3 
+lea "3"
+suma 1+2+3
+presentar gastos
+gastos +suma 8
+fin
+
