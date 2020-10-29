@@ -1,1 +1,10 @@
-resolucion de ejercicio 1
+resolucion ejercicio 1 
+
+1 inicio 
+2 escriba la base "B"
+3 lea b 
+4 escriba la  altura "A"
+5 lea a 
+6  "B" x "A" /2
+7 presentar la area 
+8 fin 
