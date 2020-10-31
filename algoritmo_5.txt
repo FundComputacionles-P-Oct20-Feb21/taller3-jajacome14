@@ -1,0 +1,8 @@
+Inicio
+Se pide el costo del CPU.
+Se pide el costo del Teclado.
+Se pide el valor de la Pantalla.
+Se pide el valor del Raton.
+Se suman todos los valores obtenidos.
+Se Presenta el costo de la computadora de escritorio.
+ Fin

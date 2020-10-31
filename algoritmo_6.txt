@@ -1,0 +1,7 @@
+ Inicio
+Se ingresa el monto del prestamo.
+Se ingresa el interes a cobrar.
+Se suman ambos valores 
+Se divide el resultado para 12 que es el numero de meses del año.
+Se muestra el valor mensual a pagar.
+ Fin

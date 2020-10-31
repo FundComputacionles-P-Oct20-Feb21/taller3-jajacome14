@@ -1,0 +1,6 @@
+Inicio.
+Se ingresa el costo por minutos.
+Se ingresa el numero de minutos consumidos.
+Se multiplica ambos valores. 
+Se preenta el valor obtenido de la planilla de telefono.
+ Fin

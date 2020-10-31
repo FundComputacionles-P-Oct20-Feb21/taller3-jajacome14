@@ -1,0 +1,23 @@
+--Ejercicio1
+
+       x(10)[{a-z}]
+
+
+--Ejercicio2
+
+	x[{i,u},{2-6}]
+
+
+--Ejercicio3
+
+      i[{21,23,25,...,33},!{23}]
+ 
+--Ejercicio4
+
+
+      i[{10-200},!{50,52,54,...,60}]
+
+
+--Ejercicio5
+
+      x(20)[{a-z},{A,B,D,E,F},{BS}]

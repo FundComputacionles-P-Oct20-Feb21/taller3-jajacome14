@@ -1,0 +1,2 @@
+inicio 
+pedir al usuario que ingrese un numero que este entre 2 y 6 
