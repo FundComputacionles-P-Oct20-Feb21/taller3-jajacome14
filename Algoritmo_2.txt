@@ -1,14 +1,8 @@
-solucion ejercicio 2 
 
-inicio 
- ingrese gasto 1 
- lea "1" 
-ingrese gasto  2 
-lea "2"
-ingrese gasto  3 
-lea "3"
-suma 1+2+3
-presentar gastos
-gastos +suma 8
-fin
-
+1.Inicio
+2. Se pide ingresar gasto del primer hijo.
+3. Se pide ingresar gasto del segundo hijo.
+4. Se pide ingresar gasto del tercer hijo.
+5. Se Suman los gastos de los 3 hijos.
+6. Se presenta en pantalla el total de los gastos de los 3 hijos
+7. Fin

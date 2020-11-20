@@ -1,2 +1,5 @@
-inicio 
-pedir al usuario que ingrese un numero que este entre 2 y 6 
+1.inicio 
+2.pedir al usuario que ingrese un numero que este entre 2 y 6 
+3. Se multiplica el valor ingresado por los numeros naturales desde 1 al 12.
+4. Se muestra en pantalla todos los resultados de las multiplicaciones.
+5. Fin

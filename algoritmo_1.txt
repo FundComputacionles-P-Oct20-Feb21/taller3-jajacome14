@@ -1,11 +1,8 @@
-resolucion ejercicio 1 
 
-1 inicio 
-2 escriba la base 
-3 lea b 
-4 escriba la  altura 
-5 lea h 
-6  "B" x "h" /2
-7 presentar la area
-area + "B" x "h" /2
-8 fin 
+1. Inicio
+2. Se pide ingresar la base
+3. Se pide ingresar la altura
+4. Se calcula el area del triangulo multiplicando su base por la altura
+5. Se realiza la division para 2 
+6. Se presenta en pantalla el resultado del area del triangulo.
+7. Fin
